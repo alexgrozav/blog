@@ -1,4 +1,4 @@
-# vue-lifecycle-unit-testing-example2
+# Vue Unit Testing Lifecycle Methods Example
 
 ## Project setup
 ```
